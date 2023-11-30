@@ -1,0 +1,40 @@
+{
+  "item.tutorialmod.citrine": "Citrine",
+  "item.tutorialmod.raw_citrine": "Raw Citrine",
+  "item.tutorialmod.tiger_spawn_egg": "Tiger Spawn Egg",
+  "item.tutorialmod.royal_guard_spawn_egg": "Royal Guard Spawn Egg",
+  "item.tutorialmod.great_hunter_spawn_egg": "Great Hunter Spawn Egg",
+  "item.tutorialmod.livingtable_spawn_egg": "LivingTable Spawn Egg",
+  "item.tutorialmod.wraith_spawn_egg": "Wraith Spawn Egg",
+  "item.tutorialmod.animated_item": "Animated Item",
+  "item.tutorialmod.amethyst_helmet": "Amethyst Helmet",
+  "item.tutorialmod.amethyst_chestplate": "Amethyst Chestplate",
+  "item.tutorialmod.amethyst_leggings": "Amethyst Leggings",
+  "item.tutorialmod.amethyst_boots": "Amethyst Boots",
+  "item.tutorialmod.toxic_helmet": "Toxic Helmet",
+  "item.tutorialmod.toxic_chestplate": "Toxic Chestplate",
+  "item.tutorialmod.toxic_leggings": "Toxic Leggings",
+  "item.tutorialmod.toxic_boots": "Toxic Boots",
+
+  "block.tutorialmod.citrine_block": "Block of Citrine",
+  "block.tutorialmod.box": "Box",
+  "block.tutorialmod.lootchest": "LootChest",
+  "block.tutorialmod.valvule": "Valvule",
+  "block.tutorialmod.citrine_ore": "Citrine Ore",
+  "block.tutorialmod.deepslate_citrine_ore": "Deepslate Citrine Ore",
+  "block.tutorialmod.animated_block": "Animated Block",
+
+  "block.tutorialmod.red_maple_log": "Red Maple Log",
+  "block.tutorialmod.red_maple_wood": "Red Maple Wood",
+  "block.tutorialmod.stripped_red_maple_log": "Stripped Red Maple Log",
+  "block.tutorialmod.stripped_red_maple_wood": "Stripped Red Maple Wood",
+  "block.tutorialmod.red_maple_planks": "Red Maple Planks",
+  "block.tutorialmod.red_maple_leaves": "Red Maple Leaves",
+  "block.tutorialmod.red_maple_sapling": "Red Maple Sapling",
+
+  "entity.tutorialmod.great_hunter": "Soul Strider",
+  "entity.tutorialmod.livingtable": "LivingTable",
+  "entity.tutorialmod.wraith": "Wraith",
+
+  "itemgroup.citrine": "Dungeons and Ruins Group"
+}
